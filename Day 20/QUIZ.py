@@ -14,7 +14,7 @@ labrador = Labrador()
 
 print(labrador.temperament)
 
-Example 2
+#Example 2
 
 
 class Dog:
